@@ -176,7 +176,7 @@ resource "aws_instance" "instance_2_Prisub" {
   associate_public_ip_address = true
 
   tags = {
-    Name = "instance_1_public_subnet"
+    Name = "instance_1_public_subnet_1"
   }
 }
 
